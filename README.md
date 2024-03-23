@@ -36,7 +36,6 @@
 <details>
   <summary>Server</summary>
     <li><a href="https://www.ruby-lang.org/en/">React</a></li>
-    <li><a href="https://rubyonrails.org/">JavaScript</a></li>
 </details>
 
 <!-- Features -->
